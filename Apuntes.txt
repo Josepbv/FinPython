@@ -2,3 +2,6 @@ Hola
 Apuntes
 Adiós
 Github
+
+#for i in range (4):
+    print(i)
